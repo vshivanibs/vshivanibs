@@ -33,7 +33,7 @@
 <!--                       ABOUT ME                           -->
 <!-- ======================================================= -->
 
-## 🚀 About Me
+##  About Me
 
 I'm a **Junior Data Engineer at BaadalSoft**, working across Data Engineering, Python Development, Data Science, Artificial Intelligence, Machine Learning, Generative AI, and Business Intelligence.
 
@@ -54,7 +54,7 @@ I work with various technologies and frameworks to develop data-driven applicati
 <!--                    TECHNICAL SKILLS                      -->
 <!-- ======================================================= -->
 
-## 🛠️ Technical Skills & Technologies
+##  Technical Skills & Technologies
 
 ### 💻 Programming Languages, Development & Databases
 
