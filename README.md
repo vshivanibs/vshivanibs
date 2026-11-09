@@ -312,10 +312,13 @@ I'm always interested in exploring new technologies, learning from the developer
 <div align="center">
 
 <a href="https://github.com/ShivaniBaadalsoft">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Office_GitHub-BaadalSoft-black?style=for-the-badge&logo=github" alt="Office GitHub"/>
 </a>
 
-<!-- Replace the URL below with your actual LinkedIn profile URL -->
+<a href="https://github.com/shivanivemula17">
+  <img src="https://img.shields.io/badge/Personal_GitHub-Shivani_Vemula-181717?style=for-the-badge&logo=github" alt="Personal GitHub"/>
+</a>
+
 <a href="https://www.linkedin.com/in/shivani-vemula/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
