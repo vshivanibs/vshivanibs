@@ -14,7 +14,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Junior+Data+Engineer+%40+BaadalSoft;Python+%7C+SQL+%7C+Data+Engineering;AI+%2F+ML+%7C+GenAI+%7C+LLMs+%7C+RAG;Microsoft+Fabric+%7C+Azure+%7C+Databricks;Building+Data-Driven+%26+AI-Powered+Solutions" alt="Typing SVG" />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ShivaniBaadalsoft/ShivaniBaadalsoft/main/shivani-professional-coding.gif"
+  <img src="https://raw.githubusercontent.com/ShivaniBaadalsoft/ShivaniBaadalsoft/main/Animated Coding Workspace Storyboard.gif"
        width="420"
        alt="Shivani - Professional Coding Animation">
 </div>
