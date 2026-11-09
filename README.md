@@ -13,7 +13,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Junior+Data+Engineer+%40+BaadalSoft;Python+%7C+SQL+%7C+Data+Engineering;AI+%2F+ML+%7C+GenAI+%7C+LLMs+%7C+RAG;Microsoft+Fabric+%7C+Azure+%7C+Databricks;Building+Data-Driven+%26+AI-Powered+Solutions" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding Animation"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ShivaniBaadalsoft/ShivaniBaadalsoft/main/shivani-professional-coding.gif"
+       width="420"
+       alt="Shivani - Professional Coding Animation">
+</div>
 
 <br/>
 
@@ -270,29 +274,29 @@ I work with various technologies and frameworks to develop data-driven applicati
 <!-- ======================================================= -->
 
 
+
 ## 📈 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShivaniBaadalsoft&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" alt="GitHub Stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=ShivaniBaadalsoft&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaniBaadalsoft&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" alt="Most Used Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=ShivaniBaadalsoft&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ShivaniBaadalsoft&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
 
 </div>
+
 
 ---
 
-## 🏆 GitHub Achievements
+
+## 🏆 GitHub Achievements & Contributions
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ShivaniBaadalsoft&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" width="90%" alt="GitHub Trophies"/>
+<img src="https://ghchart.rshah.org/36BCF7/ShivaniBaadalsoft" alt="GitHub Contribution Graph" width="95%"/>
 
 </div>
+
 
 
 ---
